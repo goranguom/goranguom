@@ -1,2 +1,3 @@
-### php, goland, rust, html, mysql, redis, relasticsearch
+### php, goland, java, rust, html, css
+### mysql, redis, relasticsearch, tidb
 
